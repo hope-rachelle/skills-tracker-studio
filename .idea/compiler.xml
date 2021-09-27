@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="skills-tracker-studio.skills-tracker-studio.main" target="11" />
+      <module name="skills-tracker-studio.skills-tracker-studio.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
